@@ -83,6 +83,25 @@
 
 
 
+                                    // chapter 4
+
+
+// var a,b,c;
+
+
+// var ahsan,$ahsan,_ahsan,ahsan2,ahsan_1;
+// var 1ahsan,.ahsan,boolean,document,123ahsan
+
+
+// document.write("Rules for naming JS variables\n");
+// document.write("Variable names can only contain , numbers, $ and -. For example : $my_1stVariable\n");
+// document.write("Variables must begin with a letter, $ or _. For example : $name, _name or name\n");
+// document.write("Variable names are case sensitive\n");
+// document.write("Variable names should not be JS keywords");
+
+
+
+
                                  // CHAPTER 5
 
 
